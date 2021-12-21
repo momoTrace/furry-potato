@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://boke.wangmou.ga</id>
     <title>老王的博客</title>
-    <updated>2021-12-21T11:35:26.829Z</updated>
+    <updated>2021-12-21T13:27:17.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://boke.wangmou.ga"/>
     <link rel="self" href="https://boke.wangmou.ga/atom.xml"/>
@@ -10,6 +10,81 @@
     <logo>https://boke.wangmou.ga/images/avatar.png</logo>
     <icon>https://boke.wangmou.ga/favicon.ico</icon>
     <rights>All rights reserved 2021, 老王的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[在IOS里玩PUBG]]></title>
+        <id>https://boke.wangmou.ga/post/zai-ios-li-wan-pubg/</id>
+        <link href="https://boke.wangmou.ga/post/zai-ios-li-wan-pubg/">
+        </link>
+        <updated>2021-12-21T11:52:35.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="什么ios还可以玩pubg">什么？iOS还可以玩pubg？？？</h2>
+<figure data-type="image" tabindex="1"><img src="https://boke.wangmou.ga/post-images/1640091699199.webp" alt="" loading="lazy"></figure>
+<p>这一期，我们来聊一聊IOS上怎么玩<s>美国正宗的</s>吃鸡。要想在App Store中玩到PUBG，你就要先有个美区账号。</p>
+<hr>
+<blockquote>
+<p>第一步</p>
+</blockquote>
+<ul>
+<li>你需要在浏览器中打开苹果官网，拉到底部在地区处选择 United States。</li>
+</ul>
+<p><img src="https://boke.wangmou.ga/post-images/1640091712755.webp" alt="" loading="lazy">图片</p>
+<ul>
+<li>完成之后，你会看到整个页面由中文变成英文。重新将页面拉到底部，选择「Account」-「Manage Your Apple ID」。打开新页面后，要注意看左下角的地区标示，如果仍为中国，则需重新点选换到 United States。</li>
+</ul>
+<p><img src="https://boke.wangmou.ga/post-images/1640091718672.webp" alt="" loading="lazy">图片</p>
+<ul>
+<li>确定地区且页面全为英文之后，我们就可以选择「Create your Apple ID」了，这里你需要用一个<strong>从未注册过 Apple ID 的邮箱</strong>进行注册。</li>
+</ul>
+<h5 id="同时在填写生日信息的时候一定要慎重由于美区的影视资源等内容有进行分级乱写生日信息可能导致某些东西由于年龄原因无法使用哦-最好不小于18岁不大于50岁-同时在填写生日信息的时候一定要慎重由于美区的影视资源等内容有进行分级乱写生日信息可能导致某些东西由于年龄原因无法使用哦-最好不小于18岁不大于50岁"><em>同时，在填写生日信息的时候一定要慎重，由于美区的影视资源等内容有进行分级，乱写生日信息可能导致某些东西由于年龄原因无法使用哦。最好不小于18岁，不大于50岁。同时，在填写生日信息的时候一定要慎重，由于美区的影视资源等内容有进行分级，乱写生日信息可能导致某些东西由于年龄原因无法使用哦。最好不小于18岁，不大于50岁。</em></h5>
+<p><img src="https://boke.wangmou.ga/post-images/1640091725191.webp" alt="" loading="lazy">图片</p>
+<ul>
+<li>
+<p>完成填写后点击下一步，这时苹果会向你的注册邮箱发送一封验证邮件，将验证码填入即可验证成功。</p>
+</li>
+<li>
+<p>在此期间，一定概率会出现*「由于一些原因，当前账号无法注册」*这一提示，这时页面会跳转到原先的信息填写界面。<strong>不要慌，重新在底部填写验证，让苹果再给你发一封验证邮件，多试几次就会成功了</strong>。</p>
+</li>
+</ul>
+<p><img src="https://boke.wangmou.ga/post-images/1640091731002.png" alt="" loading="lazy">图片</p>
+<h1 id="出现这个界面之后就代表你的-apple-id-注册成功了">出现这个界面之后，就代表你的 Apple ID 注册成功了！</h1>
+<hr>
+<blockquote>
+<p>第二步</p>
+</blockquote>
+<ul>
+<li>完成 Apple ID 注册，<strong>最重要的一步来了：在 App Store 中设置你的付款方式。</strong></li>
+</ul>
+<h4 id="因此在这一步我们首先在确保自己处于科学上网环境且该环境必须是在全局代理下的-由于苹果加强了对-app-store-账号的管理会通过某些方式检查注册人地理位置是否与注册地区一致因此在这一步我们首先在确保自己处于科学上网环境且该环境必须是在全局代理下的">因此，在这一步我们首先在确保自己处于科学上网环境，且该环境必须是在全局代理下的。由于苹果加强了对 App Store 账号的管理，会通过某些方式检查注册人地理位置是否与注册地区一致，因此，在这一步我们首先在确保自己处于科学上网环境，且该环境必须是在全局代理下的。</h4>
+<ul>
+<li>紧接着，打开 App Store，点击右上角的头像将当前的账号登出，并登陆你刚刚注册的 Apple ID。这时，由于你的账号是第一次登陆 App Store，苹果会提示你*「检查」*这个账号，点击即可。</li>
+</ul>
+<p><img src="https://boke.wangmou.ga/post-images/1640091758983.webp" alt="" loading="lazy">图片</p>
+<ul>
+<li>在新页面中，注意查看地区是否为 United States，如果不是需要手动切换至 United States，打开「同意条款与条件」后点击下一步，按照提示填写信息。</li>
+</ul>
+<p><img src="https://boke.wangmou.ga/post-images/1640091763995.webp" alt="" loading="lazy">图片</p>
+<p>**重点来了！*<em>在新页面的</em>「付款方式」<em>下选择</em>「None」*。注意，这个选项只有当网络处于全局代理的科学上网环境下才会显示，否则将只显示「信用卡」和「PayPal」两个选项。</p>
+<ul>
+<li>紧接着，在「账单寄送地址」处填入相关信息，大家可以输入美国地址。</li>
+</ul>
+<p><img src="https://boke.wangmou.ga/post-images/1640091769653.webp" alt="" loading="lazy">图片</p>
+<h4 id="但如果你要除了pubg外其他付费的应用需要注意的是美区-app-store-中的应用是需要交税的如果你希望以较低的价格购买一些付费-app建议在地址处填入税率较低的州比如-oregon俄勒冈州-alaska阿拉斯加州-delaware特拉华州-montana蒙大拿州-new-hampshire新罕布什尔州等">但如果你要除了PUBG外其他付费的应用，需要注意的是，美区 App Store 中的应用是需要交税的，如果你希望以较低的价格购买一些付费 app，建议在地址处填入税率较低的州，比如 Oregon（俄勒冈州）、Alaska（阿拉斯加州）、Delaware（特拉华州）、Montana（蒙大拿州）、New Hampshire（新罕布什尔州）等。</h4>
+<p><em>填写好之后，点击下一步，你的美区 Apple ID 就注册成功啦！</em></p>
+<p><img src="https://boke.wangmou.ga/post-images/1640091785798.webp" alt="" loading="lazy">图片</p>
+<blockquote>
+<p>第三步</p>
+</blockquote>
+<ul>
+<li>在“Search”里搜索pubgmobile。</li>
+</ul>
+<p>下载</p>
+<p>回到你之前的苹果ID，下载“Tap加速器”，下好后 <s>千万不要</s> 最好不要再更新tap加速器。</p>
+<p>在tap加速器里选择pubgmobile</p>
+<figure data-type="image" tabindex="2"><img src="https://boke.wangmou.ga/post-images/1640091794885.webp" alt="" loading="lazy"></figure>
+<p>进入登录</p>
+<p><img src="https://boke.wangmou.ga/post-images/1640091805229.webp" alt="" loading="lazy">图片</p>
+<p>more可以登录微信（WeChat）和QQ，<s>你须对我万分感谢</s> 开玩吧！！！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://boke.wangmou.ga/post/hello-gridea/</id>
